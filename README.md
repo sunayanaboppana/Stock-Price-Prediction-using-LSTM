@@ -14,7 +14,7 @@ This project demonstrates the use of Long Short-Term Memory (LSTM) networks to p
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 - Python
 - NumPy, Pandas, Matplotlib
